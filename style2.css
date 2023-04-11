@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.navbar1{
+    background-color: white;
+}
+#listss{
+    padding-top: 39px;
+}
+.list1{
+    display: flex;
+    color:#1d1d1f ;
+}
+.navbar2{
+    display: flex;
+    word-spacing:50px;
+}
+.list1 ul{
+    display: flex;
+  
+    list-style: none;  
+    margin-left: 261px;
+}
+
+.list1 ul li{
+    padding: 22px;
+}
+
+.offer{
+    background-color: #f5f5f7;
+}
+.offer p{
+    margin-left: 331px;
+    padding-top: 31px;
+    padding-bottom: 27px;
+}
+.ipad{
+    margin-top: 55px;
+    margin-left: 95px;
+}
+.ipad h3{
+    color: #bf4800;
+    font-size: 17px;
+}
+.ipad h1{
+    font-size: 48px;
+    padding-bottom: 12px;
+}
+.ipad h2{
+    font-size: 21px;
+    padding-bottom: 8px;
+}
+.ipad p{
+    font-size: 14px;
+}
+.ipad_image img{
+    margin-top: 40px;
+    margin-left: 71px;
+    border-radius: 15px;
+}
+.container1{
+    display: flex;
+}
+.buynow{
+    margin-left: 36px;
+    padding-top: 106px ;
+}
+.buynow h1{
+    font-size: 28px;
+}
+.buynow p{
+    margin-top: 6px;
+    margin-bottom: 9px;
+    font-size: 17px;
+}
+.blank{
+    margin-top:22px ;
+    margin-bottom: 6px;
+}
+.some {
+ padding: 20px;   
+ font-size: 14px;
+}
+.buy button{
+    border-radius: 8px;
+    background-color: #0071e3;
+    color: white;
+}
+.buy p{
+    color: white;
+    font-size: 23px;
+    margin-left: 122px;
+    margin-right: 122px;
+    margin-top: 8px;
+    border: none;
+    margin-bottom: 8px;
+}
+.need{
+    margin-top: 23px;
+}
+.need p{
+    font-size: 14px;
+}
+.photos{
+    margin-left: 140px;
+}
+.last {
+  margin-left: 240px;
+    margin-right: 240px;
+    padding-bottom: 40px;
+}
